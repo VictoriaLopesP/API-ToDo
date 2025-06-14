@@ -24,3 +24,5 @@ Projeto de exemplo desenvolvido em Java utilizando o framework Javalin para cria
     A API ficará disponível em: http://localhost:7000
   
     Os testes estão na classe: src/test/java/org/example/TarefaApiHttpTest.java
+
+Projeto desenvolvido para fins acadêmicos
